@@ -167,4 +167,4 @@ function drawScoreboard() {
     document.getElementById("players").innerHTML = template
 }
 
-drawScoreboard()
+drawScoreboard() 
